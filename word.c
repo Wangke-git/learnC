@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include<stdlib.h>
-int main() {
+int main3() {
 	char ch;
 	while (1) {
 		printf("ÇëÊäÈëÒ»¸ö×Ö·û£º\n");
